@@ -16,3 +16,11 @@ git status
 
 # add to version control
 git add file_name
+
+
+# commit changes to version control
+git commit -m "your message"
+
+
+# remote changes
+git push
