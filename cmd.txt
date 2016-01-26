@@ -24,3 +24,7 @@ git commit -m "your message"
 
 # remote changes
 git push
+
+
+#to pull data back
+git pull
